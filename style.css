@@ -13,9 +13,9 @@ body {
 }
 
 .container {
-  max-width: 148px;
+  max-width: 143px;
   margin: 0 auto;
-  padding: 0 160px;
+  padding: 0 16px;
 }
 
 .page-header {
